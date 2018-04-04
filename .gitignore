@@ -1,0 +1,5 @@
+.idea
+reports
+selenium-debug.log
+bin/chromedriver
+bin/*.jar
